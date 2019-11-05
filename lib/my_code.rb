@@ -1,5 +1,5 @@
-def map(array){
+def map(element1, element2){
   
 }
 
-def reduce(array)
+def reduce(element1, element2)
