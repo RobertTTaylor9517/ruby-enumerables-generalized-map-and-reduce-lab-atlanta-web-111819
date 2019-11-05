@@ -1,5 +1,3 @@
-def map(element1, element2){
-  
-}
+def map(array){|i| }
 
 def reduce(element1, element2)
